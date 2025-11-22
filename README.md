@@ -1,4 +1,4 @@
-# 📘 Instagram Performance Analysis  
+#  Instagram Performance Analysis  
 *Exploratory analysis of Instagram post metrics*
 
 This project provides a structured exploratory data analysis (EDA) workflow for understanding how different Instagram content features influence reach, impressions, and engagement.  
@@ -6,14 +6,14 @@ The analysis covers data cleaning, feature engineering, visual analytics, and pe
 
 ---
 
-## 📂 1. Files Included
+##  1. Files Included
 
 - **insta_analysis_.ipynb** — Main notebook containing all analysis steps  
 - **Instagram data.csv** — Dataset used in the notebook  
 
 ---
 
-## 🧼 2. Data Preparation
+##  2. Data Preparation
 
 ### **Loading & Preview**
 - The dataset is loaded using pandas and previewed using `.head()`.
@@ -31,7 +31,7 @@ The analysis covers data cleaning, feature engineering, visual analytics, and pe
 
 ---
 
-## 📊 3. Visual Analytics
+##  3. Visual Analytics
 
 ### **1) Distribution of Key Metrics**
 Histograms for:
@@ -90,7 +90,7 @@ Highlights the highest‑engagement posts with comparisons across:
 
 ---
 
-## 🚀 4. How to Run
+##  4. How to Run
 
 1. Open **insta_analysis_.ipynb**  
 2. Ensure **Instagram data.csv** is in the same directory  
@@ -99,7 +99,7 @@ Highlights the highest‑engagement posts with comparisons across:
 
 ---
 
-## 🛠 5. Technologies Used
+## 5. Technologies Used
 
 - Python  
 - pandas  
