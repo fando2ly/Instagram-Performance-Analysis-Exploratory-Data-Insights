@@ -126,7 +126,7 @@ This section highlights the strongest-performing content patterns.
 
 ---
 
-## 🛠 6. Technologies Used
+## 6. Technologies Used
 
 - Python  
 - pandas  
